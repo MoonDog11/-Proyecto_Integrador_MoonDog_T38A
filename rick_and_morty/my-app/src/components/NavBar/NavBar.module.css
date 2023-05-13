@@ -1,0 +1,29 @@
+
+
+    .nav {
+        margin-top: 50px;
+        width: 100%;
+        border-radius: 100px;
+        
+        justify-content: space-between;
+        align-items: center;
+        background-color: #eee;
+        padding: 10px;
+      }
+      
+      .btn {
+        margin: 60px;
+        display: inline-block;
+        padding: 10px;
+        background-color: #333;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+      }
+      
+      .btn:hover {
+        background-color: #666;
+      }
+
+      
